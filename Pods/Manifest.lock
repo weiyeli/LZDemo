@@ -1,0 +1,22 @@
+PODS:
+  - TRULogining (0.1.0):
+    - TRUNetworking
+  - TRUNetworking (0.1.0)
+
+DEPENDENCIES:
+  - TRULogining (from `Lib/TRULogining`)
+  - TRUNetworking (from `Lib/TRUNetworking`)
+
+EXTERNAL SOURCES:
+  TRULogining:
+    :path: Lib/TRULogining
+  TRUNetworking:
+    :path: Lib/TRUNetworking
+
+SPEC CHECKSUMS:
+  TRULogining: 7cf4b059d95500e0b6b012ea8552094d17133ee4
+  TRUNetworking: 7b1022e0509ed649014f240596f506be937e183a
+
+PODFILE CHECKSUM: 6c86dcb2e6bfc92f5205f185ae5bd4ee9e3d8872
+
+COCOAPODS: 1.7.5
